@@ -24,8 +24,8 @@ Now install the dependencies.
 ```shell
 npm i
 ```
-Add PORT=8080 in .env file
-We are almost done, Now just start the  server using this command.
+-Add PORT=8080 in .env file
+-We are almost done, Now just start the  server using this command.
 ```shell
 npm start
 ```
