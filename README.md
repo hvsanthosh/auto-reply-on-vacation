@@ -9,7 +9,7 @@ This application replies automatically to the emails using google mail APIs.
 - [Nodejs](https://nodejs.org/en/download)
 
  ```shell
-git clone https://github.com/hvsanthosh/auto-reply-on-vacatio.git
+git clone https://github.com/hvsanthosh/auto-reply-on-vacation.git
 ```
 -Create credentials on google cloud to use gmail API.
 ```shell
